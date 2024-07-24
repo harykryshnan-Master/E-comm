@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^9.7.4",
+    "autoprefixer": "^10.4.19",
     "postcss-cli": "^7.1.0",
     "tailwindcss": "^1.2.0"
   }
